@@ -32,7 +32,6 @@ public class Class1
                 left--;
                 right++;
             }
-
         }
         return maxLengthStr.ToString();
     }
